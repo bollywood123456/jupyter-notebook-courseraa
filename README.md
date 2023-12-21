@@ -1,1 +1,1 @@
-# jupyter-notebook-courseraa
+# jupyter-notebook-coursera
